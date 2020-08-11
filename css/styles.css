@@ -597,6 +597,7 @@ main {
   .main-information {
     width: 100%;
     margin-left: 0;
+    margin-top: 20px;
     display: grid;
     align-items: center;
     justify-content: center;
