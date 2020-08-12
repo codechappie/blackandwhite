@@ -630,7 +630,32 @@ main {
   .main-container {
     width: 100%;
   }
-
+  .projects {
+    padding: 0 10px;
+  }
+  .project-card:hover {
+    transform: scale(1.02);
+  }
+  .other-links-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 6px;
+  }
+  .other-links {
+    padding: 0 10px;
+  }
+  .other-links-card:hover {
+    transform: scale(1.02);
+  }
+  .other-links-card .footer {
+    margin-top: 35px;
+  }
+  .audiovisual-content {
+    padding: 0 10px;
+  }
+  .audiovisual-card:hover {
+    transform: scale(1.02);
+  }
 
   .other-links-card {
     height: 240px;
