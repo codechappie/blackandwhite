@@ -15,9 +15,9 @@
   font-family: "Work Sans", sans-serif;
   margin: 0;
   padding: 0;
-  -webkit-tap-highlight-color: none;
-  scrollbar-highlight-color: none;
-  lighting-color: none;
+  -webkit-tap-highlight-color: transparent;
+  scrollbar-highlight-color: transparent;
+  lighting-color: transparent;
   outline: none;
   box-sizing: border-box;
   user-select: none;
